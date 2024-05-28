@@ -37,4 +37,7 @@ npm start
 
 The server will start on the port specified in the `.env` file.
 
+**Video**
+
+[Click here to watch the video](https://www.loom.com/share/81b103ec75fe4249b3c2aef8153aa1e0?sid=049776f1-1b21-4c53-ae62-93944a25a10f)
 
